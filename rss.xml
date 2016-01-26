@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[We Are Family]]></title>
+        <description><![CDATA[We Are Family]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 26 Jan 2016 17:31:26 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Day Time]]></title>
+            <description><![CDATA[<article><h1>Day Time</h1><p>Created using Magisto on December 19, 2015. Share your story using the free video editing app that transforms your photos and videos with the swipe of your finger. Available for Android and iOS.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2f0b456b259ebb96020c8a432da798354cbc8751.jpg"></article>]]></description>
+            <link>http://www.magisto.com/video/YQ9FJgRRHyg0BAdpYw</link>
+            <guid isPermaLink="false">17115d15-6fef-4c61-bcda-3b2693a62fbc</guid>
+            <pubDate>Tue, 26 Jan 2016 17:31:26 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
